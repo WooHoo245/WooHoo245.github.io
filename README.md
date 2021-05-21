@@ -1,2 +1,3 @@
-# WooHoo245.github.io
+# WooHoo
 A sale website
+The first project I had done.
